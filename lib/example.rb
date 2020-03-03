@@ -1,13 +1,6 @@
-# Use this space to code along with the readme
-
-phrase = "Hello World!"
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
+def test
+  test = "Hello"
+  puts test
+  puts test
+  puts test
+end
